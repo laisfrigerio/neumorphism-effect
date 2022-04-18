@@ -9,14 +9,14 @@ A collection of interface elements developed using the Neumorphism effect
 
 ## Elements
 
-☑️ Radio Button [Código Fonte](./radio-button) | [Vídeo]()
-☐ Checkbox
-☐ Search input
-☐ Switch
-☐ Progress Bar
-☐ Button
-☐ Clock
-☐ Calendar
+- ☑️ Radio Button [Código Fonte](./radio-button) | [Vídeo]()
+- ☐ Checkbox
+- ☐ Search input
+- ☐ Switch
+- ☐ Progress Bar
+- ☐ Button
+- ☐ Clock
+- ☐ Calendar
 
 ## :woman: Author
 

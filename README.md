@@ -14,7 +14,7 @@ A collection of interface elements developed using the Neumorphism effect
   <a><img src="./neumorphism-part-1-radio-button.png" alt="Como criar um radio button com o efeito neumorphism" title="Como criar um radio button com o o efeito neumorphism"></a>
 </p>
 
-- ☐ Checkbox [Código Fonte](./checkbox)
+- ☑️ Checkbox [Código Fonte](./checkbox)
 
 <p align="center">
   <a><img src="./neumorphism-part-2-checkbox.png" alt="Como criar um checkbox com o efeito neumorphism" title="Como criar um radio button com o o efeito neumorphism"></a>

@@ -8,13 +8,13 @@ A collection of interface elements developed using the Neumorphism effect
 
 ## Elements
 
-- ☑️ Radio Button [Código Fonte](./radio-button) | [Vídeo](https://www.instagram.com/reel/Ccf9ZhMFhxa/?utm_source=ig_web_copy_link)
+- ☑️ Radio Button [Código Fonte](./radio-button) | [Vídeo](https://www.instagram.com/reel/Ccf9ZhMFhxa/)
 
 <p align="center">
   <a><img src="./neumorphism-part-1-radio-button.png" alt="Como criar um radio button com o efeito neumorphism" title="Como criar um radio button com o o efeito neumorphism"></a>
 </p>
 
-- ☑️ Checkbox [Código Fonte](./checkbox)
+- ☑️ Checkbox [Código Fonte](./checkbox) | [Vídeo](https://www.instagram.com/reel/CciPO_iFsY9/)
 
 <p align="center">
   <a><img src="./neumorphism-part-2-checkbox.png" alt="Como criar um checkbox com o efeito neumorphism" title="Como criar um radio button com o o efeito neumorphism"></a>

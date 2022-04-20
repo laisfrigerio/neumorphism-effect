@@ -1,0 +1,76 @@
+:root {
+  --primary: #e4ebf5;
+  --secondary: #1d887a;
+  --grey-100: #c8d0e7;
+  --grey-400: #bec8e4;
+  --grey-500: #9baacf;
+  --white: #fff;
+}
+
+* {
+  border: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  align-items: center;
+  background-color: var(--primary);
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.form-input {
+  position: relative;
+}
+
+.form-input input {
+  background-color: var(--primary);
+  color: var(--grey-500);
+  box-shadow: 2px 2px 8px 1px var(--grey-400),
+  -2px -2px 4px 3px var(--white);
+  height: 50px;
+  padding: 4px 18px 5px;
+  font-size: 18px;
+  position: relative;
+  outline: 0;
+  border-radius: 6px;
+  width: 100%;
+  max-width: 500px;
+}
+
+.form-input input::placeholder {
+  color: var(--grey-400);
+}
+
+.form-input i {
+  position: absolute;
+  color: var(--grey-500);
+  font-size: 25px;
+  left: 15px;
+  top: 10px;
+}
+
+.icon input {
+  padding-left: 50px;
+}
+
+.form-input input:focus {
+  box-shadow: inset 1px 3px 8px var(--grey-400),
+  inset -3px -5px 5px var(--white);
+}
+
+.form-input input:focus + i {
+  color: var(--secondary);
+}

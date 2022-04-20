@@ -11,16 +11,21 @@ A collection of interface elements developed using the Neumorphism effect
 - ☑️ Radio Button [Código Fonte](./radio-button) | [Vídeo](https://www.instagram.com/reel/Ccf9ZhMFhxa/)
 
 <p align="center">
-  <a><img src="./neumorphism-part-1-radio-button.png" alt="Como criar um radio button com o efeito neumorphism" title="Como criar um radio button com o o efeito neumorphism"></a>
+  <a href="https://www.instagram.com/reel/Ccf9ZhMFhxa/"><img src="./neumorphism-part-1-radio-button.png" alt="Como criar um radio button com o efeito neumorphism" title="Como criar um radio button com o o efeito neumorphism"></a>
 </p>
 
 - ☑️ Checkbox [Código Fonte](./checkbox) | [Vídeo](https://www.instagram.com/reel/CciPO_iFsY9/)
 
 <p align="center">
-  <a><img src="./neumorphism-part-2-checkbox.png" alt="Como criar um checkbox com o efeito neumorphism" title="Como criar um radio button com o o efeito neumorphism"></a>
+  <a href="https://www.instagram.com/reel/CciPO_iFsY9/"><img src="./neumorphism-part-2-checkbox.png" alt="Como criar um checkbox com o efeito neumorphism" title="Como criar um radio button com o o efeito neumorphism"></a>
 </p>
 
-- ☐ Search input
+- ☑️ Input [Código Fonte](./input)
+
+<p align="center">
+  <a><img src="./neumorphism-part-3- input.png" alt="Como criar um inputs de formulário com o efeito neumorphism" title="Como criar um inputs de formulário com o efeito neumorphism"></a>
+</p>
+
 - ☐ Switch
 - ☐ Progress Bar
 - ☐ Button
